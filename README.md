@@ -1,5 +1,5 @@
 ### Hi there  👋
-### 🔭 I’m a peer tutor, and I'm constantly involden on the design of teaching material for undergraduate students
+### 🔭 I’m a peer tutor, and I'm constantly involved on the design of teaching material for undergraduate students
 🌱 I’m currently pursuing my degree on physics
 ### 👯 I’m looking to collaborate on data science and applied math projects.
 <!--
